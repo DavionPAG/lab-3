@@ -1,0 +1,13 @@
+ol {
+  background: blue;
+  padding: 5px;
+}
+
+li {
+  width: 95%;
+  background: grey;
+  border: 1rem ;
+  padding: 1rem;
+  margin: 1rem;
+  color: white
+}                                                           
